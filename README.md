@@ -1,6 +1,6 @@
 # Training Provider Management System
 
-Welcome to the Training Provider Management System, a comprehensive web-based solution designed to transform the management of educational courses. This project, developed using HTML, CSS, JavaScript, MySQL, and PHP, offers a seamless integration of course management, student registration, and instructor coordination within a unified platform.
+Welcome to the Training Provider Management System, a comprehensive web-based solution designed to transform the management of educational courses. This project, developed using HTML, CSS, bootstrap, JavaScript, MySQL, and PHP, offers a seamless integration of course management, student registration, and instructor coordination within a unified platform.
 
 ## Key Features
 
@@ -32,7 +32,6 @@ We welcome contributions to enhance the functionality and usability of the syste
 
 ## Contact
 
-For inquiries or support, feel free to contact our team at [team@example.com](mailto:team@example.com).
+For inquiries or support, feel free to contact via my email: hosam.wrr1234@gmail.com or using one of my social media accounts.
 
-Embrace innovation, efficiency, and connectivity with the Training Provider Management System. Empower training providers, instructors, and students to thrive in the realm of education.
 
